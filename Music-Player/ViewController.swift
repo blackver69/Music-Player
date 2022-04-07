@@ -17,6 +17,8 @@ class ViewController: UIViewController {
     var currState = false
     
     /// Outlets
+    ///
+    /// //aisdaosdiansodnascancoabcwehacwa
     @IBOutlet weak var imageCoverImage: UIImageView!
     @IBOutlet weak var imageBackground: UIImageView!
     
