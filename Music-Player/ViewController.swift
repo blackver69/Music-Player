@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     /// Outlets
     ///
     /// //aisdaosdiansodnascancoabcwehacwa
+    /// asdjbsadnasidnaodaosdnasdoasndosa
     @IBOutlet weak var imageCoverImage: UIImageView!
     @IBOutlet weak var imageBackground: UIImageView!
     
